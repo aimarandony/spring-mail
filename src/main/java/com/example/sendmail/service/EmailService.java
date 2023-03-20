@@ -1,6 +1,6 @@
 package com.example.sendmail.service;
 
-import com.example.sendmail.entity.EmailDetails;
+import com.example.sendmail.model.EmailDetails;
 
 public interface EmailService {
 

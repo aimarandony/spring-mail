@@ -4,7 +4,7 @@ import java.io.File;
 import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;
 
-import com.example.sendmail.entity.EmailDetails;
+import com.example.sendmail.model.EmailDetails;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.FileSystemResource;

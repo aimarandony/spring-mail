@@ -1,6 +1,6 @@
 package com.example.sendmail.controller;
 
-import com.example.sendmail.entity.EmailDetails;
+import com.example.sendmail.model.EmailDetails;
 import com.example.sendmail.service.EmailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

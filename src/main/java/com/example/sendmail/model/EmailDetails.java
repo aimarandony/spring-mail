@@ -1,4 +1,4 @@
-package com.example.sendmail.entity;
+package com.example.sendmail.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-
 public class EmailDetails {
 
     private String recipient;
